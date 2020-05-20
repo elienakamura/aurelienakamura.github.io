@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to my page /// Aurélie Nakamura
 
-You can use the [editor on GitHub](https://github.com/elienakamura/aurelienakamura.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am currently conducteing a PhD in Social, psychiatric and perinatal epidemiology at INSERM/Sorbonne Université under the supervision of Maria Melchior (Research Director at INSERM) and Judith van der Waerden (Researcher at INSERM). My PhD is entitled _The role of social support during pregnancy in social inequalities in parental postpartum depression_ and it was founded by a doctoral contract from The French School of Public Health (EHESP). In parallel of my research project, I am teaching statistics in the Statistics and Business Intelligence department of IUT Paris Descartes. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can find me at :
+Bureau 312                                 or       Bureau 418
+Faculté de Médecine St Antoine                      IUT Paris Descartes
+27 rue CHaligny                                     143 avenue de Versailles
+75012 Paris                                         75016 Paris
+France                                              France
+aurelie.nakamura(at)iplesp.upmc.fr                  aurelie.nakamura(at)parisdescartes.fr
 
 ### Markdown
 
