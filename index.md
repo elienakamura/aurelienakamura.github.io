@@ -3,12 +3,9 @@
 I am currently conducteing a PhD in Social, psychiatric and perinatal epidemiology at INSERM/Sorbonne Université under the supervision of Maria Melchior (Research Director at INSERM) and Judith van der Waerden (Researcher at INSERM). My PhD is entitled _The role of social support during pregnancy in social inequalities in parental postpartum depression_ and it was founded by a doctoral contract from The French School of Public Health (EHESP). In parallel of my research project, I am teaching statistics in the Statistics and Business Intelligence department of IUT Paris Descartes. 
 
 You can find me at :
-Bureau 312                                 or       Bureau 418
-Faculté de Médecine St Antoine                      IUT Paris Descartes
-27 rue CHaligny                                     143 avenue de Versailles
-75012 Paris                                         75016 Paris
-France                                              France
-aurelie.nakamura(at)iplesp.upmc.fr                  aurelie.nakamura(at)parisdescartes.fr
+Bureau 312, Faculté de Médecine St Antoine, 27 rue CHaligny, 75012 Paris, France or       
+Bureau 418, IUT Paris Descartes, 143 avenue de Versailles, 75016 Paris, France                                              
+and contact me at aurelie.nakamura(at)iplesp.upmc.fr or  aurelie.nakamura(at)parisdescartes.fr
 
 ### Markdown
 
